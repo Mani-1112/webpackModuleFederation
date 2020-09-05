@@ -1,0 +1,44 @@
+[
+    {
+	"label": "First Name", 
+	"type": "input", 
+	"name": "firstName", 
+	"value": "Manish"
+	},
+    {
+	"label": "Last Name", 
+	"type": "input", 
+	"name": "lastName", 
+	"value": "Subudhi"
+	},
+    {
+	"label": "City", 
+	"type": "input", 
+	"name": "city", 
+	"value": "Bangalore"
+	},
+    {
+	"label": "Address", 
+	"type": "input", 
+	"name": "address", 
+	"value": "Sarjahpur Road"
+	},
+    {
+	"label": "Occupation", 
+	"type": "select", 
+	"data": ["Teacher", "Software Engineer", "Doctor", "Lawyer"], 
+	"name": "occupation", 
+	"value": "Please Select"},
+    {
+	"label": "Message", 
+	"type": "textarea", 
+	"name": "message", 
+	"value": ""
+	},
+    {
+	"label": "Please click to agree to Terms & Conditions.", 
+	"type": "checkbox", 
+	"name": "terms", 
+	"value": false
+	}
+]
